@@ -1,0 +1,18 @@
+{
+ "added": [
+  {
+   "id": 1,
+   "type": "implementation",
+   "installed_name": "compose-ui",
+   "gpm_dep": {
+    "artifact_id": "ui",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/androidx.compose.ui/ui",
+    "get_from": "Google",
+    "group_id": "androidx.compose.ui",
+    "name": "Compose UI Primitives",
+    "description": "Compose UI primitives. This library contains the primitives that form the Compose UI Toolkit, such as drawing, measurement and layout."
+   }
+  }
+ ]
+}
